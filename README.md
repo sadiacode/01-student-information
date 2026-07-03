@@ -1,5 +1,5 @@
 # Student Information
-## Description
+## Description-
 This project is a simple python program that collects and displays student information.
 ## Technologies used
 - Pycharm
